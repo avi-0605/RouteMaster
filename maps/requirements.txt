@@ -1,0 +1,9 @@
+
+osmnx>=2.0.0
+networkx>=3.0
+folium>=0.14.0
+pandas>=1.4
+numpy>=1.22
+shapely>=2.0
+geopandas>=1.0
+ 
